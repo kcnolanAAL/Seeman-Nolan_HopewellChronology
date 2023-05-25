@@ -1,5 +1,5 @@
 # Seeman-Nolan_HopewellChronology
-Supplemental code, data, and outputs related to "BUILDING THE OHIO HOPEWELL CHRONOLOGY AN INCREMENTAL APPROACH TO HISTORICAL RECKONING"
+Supplemental code, data, and outputs related to "BUILDING THE OHIO HOPEWELL CHRONOLOGY AN INCREMENTAL APPROACH TO HISTORICAL RECKONING", Seeman, Mark F, and Kevin C. Nolan, American Antiquity 88(2):144-162, https://doi.org/10.1017/aaq.2023.6
 
 Supplemental Text 3. Descriptive Guide to OxCal Calibration and Modeling Inputs and Outputs
 
